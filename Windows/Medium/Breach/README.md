@@ -2,19 +2,16 @@
 
 ## Machine Information
 
-| Field | Value |
-| --- | --- |
-| Machine | Breach |
-| Platform | Hack The Box |
-| Operating system | Windows Server 2022 |
-| Difficulty | Medium |
-| Status | Retired |
-| Domain | `breach.vl` |
-| Primary services | DNS, Kerberos, LDAP, SMB, Microsoft SQL Server, RDP, WinRM |
-| Main techniques | Forced NTLM authentication, offline password cracking, Kerberoasting, silver ticket, `xp_cmdshell`, token impersonation |
-
-> [!NOTE]
-> Hack The Box's official machine page marked Breach as retired when this report was prepared. Publication should still comply with the platform's current content rules.
+| Field            | Value                                                                                                                   |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Machine          | Breach                                                                                                                  |
+| Platform         | Hack The Box                                                                                                            |
+| Operating system | Windows Server 2022                                                                                                     |
+| Difficulty       | Medium                                                                                                                  |
+| Status           | Retired                                                                                                                 |
+| Domain           | `breach.vl`                                                                                                             |
+| Primary services | DNS, Kerberos, LDAP, SMB, Microsoft SQL Server, RDP, WinRM                                                              |
+| Main techniques  | Forced NTLM authentication, offline password cracking, Kerberoasting, silver ticket, `xp_cmdshell`, token impersonation |
 
 ## Executive Summary
 
